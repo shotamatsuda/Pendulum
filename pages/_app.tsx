@@ -5,12 +5,11 @@ import { AppProps as NextAppProps } from 'next/app'
 import Head from 'next/head'
 import React from 'react'
 
+import { CssBaseline } from '../src/CssBaseline'
 import { createEmotionCache } from '../src/createEmotionCache'
 import { theme } from '../src/theme'
 
 import 'normalize.css'
-
-import { CssBaseline } from '../src/CssBaseline'
 
 const clientSideEmotionCache = createEmotionCache()
 
