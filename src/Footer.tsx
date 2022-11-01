@@ -20,7 +20,7 @@ export const Footer: React.FC = () => (
     </Typography>
     <Typography variant='caption'>
       <Link
-        href='https://github.com/shotamatsuda/pendulum'
+        href='https://github.com/shotamatsuda/Pendulum'
         color='text.secondary'
       >
         Source Code
