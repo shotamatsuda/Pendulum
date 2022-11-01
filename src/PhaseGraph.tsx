@@ -9,7 +9,7 @@ import React, { ComponentPropsWithRef, forwardRef, useCallback } from 'react'
 import { Vector2 } from 'three'
 
 import { MotionPropagation } from './MotionPropagation'
-import { PhaseGraphFrame } from './PhageGraphFrame'
+import { PhaseGraphFrame } from './PhaseGraphFrame'
 import { Propagation } from './Propagation'
 import { RepeatRenderPlane } from './RepeatRenderPlane'
 import { VectorField } from './VectorField'
